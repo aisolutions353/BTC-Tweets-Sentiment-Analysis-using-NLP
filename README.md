@@ -6,3 +6,5 @@ In the proposed work, we train different machine learning models a deep learning
 The model takes the tweets and predict their sentiment to analyze future behavior of Bitcoin. 
 We used the Random Forest, K Nearest Neighbor and Support Vector machine algorithms for the classification of tweets. 
 We also used the pre-trained BERT model from the transformer library for sentiment classification that has the highest accuracy.
+
+Dataset
