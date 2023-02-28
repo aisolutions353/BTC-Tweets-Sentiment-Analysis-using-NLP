@@ -16,3 +16,4 @@ Number of Variables in Dataset:	10
 
 # Model Accuracy Comparison
 
+![image_2023_02_28T08_08_08_477Z](https://user-images.githubusercontent.com/68701684/221800884-7d7d514d-db6a-410d-a935-01da7fe32c4e.png)
